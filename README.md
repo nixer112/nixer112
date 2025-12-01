@@ -11,11 +11,10 @@
   <br> 
 
   <h3>🛠️ Languages & Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,py,bash,html" alt="My Skills" />
+    </a>
   </p>
 
   <br>
@@ -47,9 +46,6 @@
     <a href="mailto:YOUR_EMAIL@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
+    </p>
 
 </div>
