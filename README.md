@@ -5,7 +5,7 @@
   <h3>Computer Engineering Student @ <a href="https://www.ujaen.es/" target="_blank">UJA</a></h3>
 
   <p>
-    Currently in my 3rd year of Computer Engineering. I am passionate about low-level programming and scripting, and I am now expanding my horizons into the creative world of Video Games and the critical field of Cybersecurity.
+    Currently in my 3rd year of Computer Engineering. I am passionate about low-level programming and scripting, and I am now expanding my horizons into Video Games and Cybersecurity.
   </p>
 
   <br> 
@@ -35,15 +35,15 @@
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Nicolas' Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nixer112&show_icons=true&theme=tokyonight&hide_border=true" alt="Nicolas' Github Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nixer112&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br>
   <br>
 
   <p>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:nixer1979@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     </p>
