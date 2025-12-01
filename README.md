@@ -32,11 +32,6 @@
       </td>
     </tr>
   </table>
-
-  <br>
-  
-  ![Mis Estadísticas](https://github-readme-stats.vercel.app/api?username=nixer112&show_icons=true&theme=tokyonight&hide_border=true)
-  ![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=nixer112&layout=compact&theme=tokyonight&hide_border=true)
   
   <br>
   <br>
