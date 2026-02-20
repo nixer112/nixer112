@@ -19,23 +19,6 @@
 
   <br>
 
-  <h3>🚀 Current Focus & Learning</h3>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🎮 Game Development</h4>
-        <p>Exploring game engines and graphics programming.</p>
-      </td>
-      <td align="center" width="50%">
-        <h4>🔐 Cybersecurity</h4>
-        <p>Learning about network security, CTFs, and ethical hacking.</p>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  <br>
-
   <p>
     <a href="mailto:nixer1979@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Me-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
